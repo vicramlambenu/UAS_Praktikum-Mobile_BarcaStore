@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Lapisan pertama (Merah) -->
+    <item android:drawable="@color/button_color"/>
+
+    <!-- Lapisan kedua (Biru) dengan transparansi -->
+    <item android:left="50dp" android:right="50dp">
+        <shape>
+            <solid android:color="#3F51B5" /> <!-- Biru -->
+        </shape>
+    </item>
+</layer-list>

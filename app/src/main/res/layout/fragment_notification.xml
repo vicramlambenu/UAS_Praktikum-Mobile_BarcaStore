@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/gradient_background">
+
+    <!-- RecyclerView untuk menampilkan daftar item checkout -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view_checked_out_items"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

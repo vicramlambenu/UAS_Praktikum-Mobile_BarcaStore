@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- String untuk hint pencarian produk -->
+    <string name="search_hint">Cari Produk</string>
+
+    <!-- Tambahkan string lainnya jika perlu -->
+    <string name="app_name">BarcaStore</string>
+    <string name="product_name">Nama Produk</string>
+    <string name="product_price">Harga Produk</string>
+    <string name="product_description">Deskripsi Produk</string>
+    <!-- Bisa menambah string lain sesuai kebutuhan aplikasi -->
+</resources>
